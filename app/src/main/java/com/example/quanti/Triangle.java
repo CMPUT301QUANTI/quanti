@@ -1,4 +1,4 @@
-package com.example.quanti
+package com.example.quanti;
 
 
-puclic class Triangle extends  Shape {}
+public class Triangle extends  Shape {}
