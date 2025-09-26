@@ -5,7 +5,7 @@ public class Shape {
     private int x;
     private int y;
 
-    private String color = "blue";
+    private String color = "orange";
 
     public int getX() {
         return x;
