@@ -7,6 +7,7 @@ public class Shape {
 
     private String color = "orange";
 
+
     public int getX() {
         return x;
     }
