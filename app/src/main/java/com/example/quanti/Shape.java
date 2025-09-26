@@ -5,6 +5,8 @@ public class Shape {
     private int x;
     private int y;
 
+    String color = "This is not a color";
+
     public int getX() {
         return x;
     }
