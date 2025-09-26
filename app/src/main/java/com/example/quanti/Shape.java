@@ -1,6 +1,7 @@
 package com.example.quanti;
 
 public class Shape {
+    String color = "blue";
 
     private int x;
     private int y;
